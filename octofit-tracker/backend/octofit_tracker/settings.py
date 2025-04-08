@@ -26,7 +26,7 @@ SECRET_KEY = "django-insecure-e#ja#y7+l44!)q^uin_#8x83n3_u%t=v+7ii_97+hg=u=4%g7t
 DEBUG = True
 
 # Add CORS middleware and allow all hosts
-ALLOWED_HOSTS = ['*']
+ALLOWED_HOSTS = ['localhost', '127.0.0.1', 'upgraded-garbanzo-x7vwv74v6vc66x9-8000.app.github.dev']
 
 
 # Application definition
